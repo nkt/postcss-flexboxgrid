@@ -1,5 +1,7 @@
 # postcss-flexboxgrid
 
+[![Circle CI](https://circleci.com/gh/nkt/postcss-flexboxgrid.svg?style=svg)](https://circleci.com/gh/nkt/postcss-flexboxgrid)
+
 Flexbox grid system based on css properties.
 
 ## Installation
