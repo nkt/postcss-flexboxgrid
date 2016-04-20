@@ -1,0 +1,23 @@
+.container {
+  flex-container: auto;
+}
+
+.container-fluid {
+  flex-container: fluid;
+}
+
+.row {
+  flex-row: auto;
+}
+
+.col-xs {
+  flex-column: auto;
+}
+
+.col-xs-1 {
+  flex-column: 1;
+}
+
+.col-xs-12 {
+  flex-column: 12;
+}
