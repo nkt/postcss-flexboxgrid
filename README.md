@@ -77,7 +77,7 @@ postcss([
 
 ---
 
-### flex-row
+### flex-col
 
 ```css
 /* before */
