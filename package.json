@@ -1,6 +1,6 @@
 {
   "name": "postcss-flexboxgrid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flexbox grid system based on css properties",
   "main": "lib/index.js",
   "files": [
