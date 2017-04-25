@@ -2,7 +2,7 @@ const postcss = require('postcss');
 
 const px = (val) => val ? `${val}px` : '0';
 const pct = (val) => val ? `${val}%` : '0';
-const round = (val) => Number.isInteger(val) ? val : val.toPrecision(4);
+const round = (val) => Number.isInteger(val) ? val : val.toPrecision(6);
 const column = (columns, val) => pct(round((100 / columns) * val));
 
 function flexboxgrid({ columns = 12, gutter = 30 } = {}) {
